@@ -4,8 +4,6 @@
 
 [Enligsh](https://github.com/roeniss/world-newsletter-services-list/blob/master/READMD.md) | [한글](https://github.com/roeniss/world-newsletter-services-list/blob/master/READMD-ko.md)
 
-[TOC]
-
 ## 1. 무슨 레포지토리인가요?
 
 세계의 뉴스레터를 수집합니다.

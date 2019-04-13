@@ -4,8 +4,6 @@ You like newsletters. I like newsletters, too. So let's exchange what we know.
 
 [Enligsh](https://github.com/roeniss/world-newsletter-services-list/blob/master/READMD.md) | [한글](https://github.com/roeniss/world-newsletter-services-list/blob/master/READMD-ko.md)
 
-[TOC]
-
 ## 1. What is this repository for?
 
 To collect all of newsletter services in the world.
