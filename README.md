@@ -12,6 +12,7 @@ You like newsletters. I like newsletters, too. So let's exchange what we know.
 
 1. Email services that anyone can subscribe.
 2. Service that delivers new mails on a regular or irregular basis.
+3. Service that don't need to signup for a subscription
 
 ## 3. How to contribute
 
